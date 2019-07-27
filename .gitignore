@@ -33,4 +33,3 @@ nbproject
 _tmp
 node_modules/
 .env
-dist/
